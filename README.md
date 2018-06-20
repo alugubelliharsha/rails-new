@@ -1,0 +1,2 @@
+# rails-new
+learning purpose
